@@ -57,7 +57,7 @@
 
 3. ## Deploy to HEROKU ↓
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mrnaduwav4/MR.NADUWA-V1.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mrnaduwa7/MR.NADUWA-V1..git)
 <br>
 <br>
 5. ## Deploy to RENDER ↓
