@@ -156,6 +156,18 @@ if (fs.existsSync(storeFilePath)) {
 }
 
 
+//==============================
+
+  conn.ev.on('messages.update', async updates => {
+    for (const update of updates) {
+      if (update.update.message === null) {
+        console.log("Delete Detected:", JSON.stringify(update, null, 2));
+        await AntiDelete(conn, updates);
+      }
+    }
+  });
+  //============================== 
+      
 	
 conn.ev.on('messages.upsert', async(mek) => {
 mek = mek.messages[0]
