@@ -46,7 +46,6 @@
     "@mrnima/tiktok-downloader":"1.0.0",
     "@mrnima/facebook-downloader":"1.0.0",
     "mrnima-moviedl":"1.0.0",
-"pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",
     "@sl-code-lords/movie-api": "1.0.0",
     "@sl-code-lords/si-subdl": "latest",
     "wa-sticker-formatter" : "4.4.4",
@@ -62,7 +61,8 @@
     "mongoose" : "8.9.2",
     "mrnima-moviedl": "1.0.0",
     "adm-zip": "latest",
-    "cheerio" : "1.0.0"
+    "cheerio" : "1.0.0",
+    "npm install -g npm@" : "11.1.0"
     
   }
 }
