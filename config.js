@@ -13,5 +13,7 @@ AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "false",
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
  AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
+ANTI_VV: process.env.ANTI_VV || "true",
+// true for anti once view 
 MODE: process.env.MODE || "private"
 };
