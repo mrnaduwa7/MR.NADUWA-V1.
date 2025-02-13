@@ -13,10 +13,5 @@ AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "false",
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
  AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
-MODE: process.env.MODE || "private",
-ANTI_VV: process.env.ANTI_VV || "true",
-// true for anti once view 
-ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log"
-// change it to 'same' if you want to resend deleted message in same chat 
-
+MODE: process.env.MODE || "private"
 };
