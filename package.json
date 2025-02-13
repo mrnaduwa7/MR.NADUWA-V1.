@@ -60,6 +60,11 @@
     "megajs" : "1.3.5",
     "mongoose" : "8.9.2",
     "mrnima-moviedl": "1.0.0",
+        "sequelize": "^6.37.5",
+        "vm": "^0.1.0",
+            "ruhend-scraper" : "8.0.3",
+    "sqlite3": "^5.1.7",
+    "vm": "^0.1.0",
     "adm-zip": "latest",
     "cheerio" : "1.0.0"
     
